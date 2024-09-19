@@ -1,5 +1,7 @@
 # power-up-animal-shelter
 
+<h2 align="left"><img src="PawsOnHeart.png"></h2>
+
 [View the video demo on YouTube](https://www.youtube.com/watch?v=ksAsAssvfhA)
 
 ## Power Up Challenge overview
