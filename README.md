@@ -101,7 +101,7 @@ Use case: to showcase shelter accomplishments<br>
   - Most fostered type of animal
 
 <br><br>
-
+<h2 align="left"><img src="graded.png"></h2>
 
 
 
