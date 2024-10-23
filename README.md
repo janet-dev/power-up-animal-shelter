@@ -140,7 +140,7 @@ Use case: to showcase shelter accomplishments<br>
   Using a lookup
   <h2 align="left"><img src="docs/pictures/model-new-animal-lookup.png"></h2>
 
-### Canvas App
+### Canvas App (Mobile)
 #### Home Screen
   <h2 align="left"><img src="docs/pictures/canvas-screen-home.png"></h2>
 
