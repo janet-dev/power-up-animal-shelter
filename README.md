@@ -6,16 +6,13 @@
 
 ## Power Up Challenge overview
 
-Requirements for successful completion of the [**Microsoft Power Up Program**](https://powerup.microsoft.com/):
-<br><br>
-Applied knowledge and skills acquired during this course which spanned across
-<br>
-- Dataverse
-- Power Apps (Model driven apps & Canvas apps)
-- Power Automate cloud flows
-- Power BI reports
+These are the equirements for successful completion of the [**Microsoft Power Up Program**](https://powerup.microsoft.com/)
+* Applied knowledge and skills acquired during this course which spanned across
+ - Dataverse
+ - Power Apps (Model driven apps & Canvas apps)
+ - Power Automate cloud flows
+ - Power BI reports
 
-<br><br>
 ## Business Scenario (Animal Shelter)
 Paws on Heart is an animal rescue charity that operates animal shelters and liaises with local families to foster animals in need. 
 The goal is to help every pet to get the veterinary care they need and to find their foster families.
