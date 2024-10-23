@@ -1,4 +1,4 @@
-# power-up-animal-shelter
+# Paws on Heart Animal Shelter
 
 <h2 align="left"><img src="PawsOnHeart.png"></h2>
 
@@ -108,15 +108,50 @@ Use case: to showcase shelter accomplishments<br>
 <h2 align="left"><img src="docs/pictures/solution.png"></h2>
 
 ### Model Driven App
-* Shelter Details view
-  <h2 align="left"><img src="docs/pictures/model-view-shelter.png"></h2>
+#### Shelter Details View
+<h2 align="left"><img src="docs/pictures/model-view-shelter.png"></h2>
+  
+* Inbuilt BI report
   <h2 align="left"><img src="docs/pictures/model-bi-shelter.png"></h2>
-  <h2 align="left"><img src="docs/pictures/model-new-shelter.png"></h2>
-* Foster Familes view
-  <h2 align="left"><img src="docs/pictures/solution.png"></h2>
-* Animals view
-  <h2 align="left"><img src="docs/pictures/solution.png"></h2>
 
+* Add a new record
+  <h2 align="left"><img src="docs/pictures/model-new-shelter.png"></h2>
+
+  
+#### Foster Familes view
+<h2 align="left"><img src="docs/pictures/model-view-foster.png"></h2>
+  
+* Inbuilt BI report
+  <h2 align="left"><img src="docs/pictures/model-bi-foster.png"></h2>
+
+* Add a new record
+  <h2 align="left"><img src="docs/pictures/model-new-foster.png"></h2>
+
+  
+#### Animals view
+  <h2 align="left"><img src="docs/pictures/model-view-animals.png"></h2>
+  
+* Inbuilt BI report
+  <h2 align="left"><img src="docs/pictures/model-bi-animals.png"></h2>
+  
+* Add a new record  
+  <h2 align="left"><img src="docs/pictures/model-new-animal.png"></h2>
+
+  Using a lookup
+  <h2 align="left"><img src="docs/pictures/model-new-animal-lookup.png"></h2>
+
+### Canvas App
+#### Home Screen
+  <h2 align="left"><img src="docs/pictures/canvas-screen-home.png"></h2>
+
+  Select a shelter
+  <h2 align="left"><img src="docs/pictures/canvas-screen-home-select1.png"></h2>
+
+  Selection is filtered
+  <h2 align="left"><img src="docs/pictures/canvas-screen-home-select2.png"></h2>
+  
+####  Detail Screen
+  <h2 align="left"><img src="docs/pictures/canvas-screen-detail.png"></h2>
 
 
 
