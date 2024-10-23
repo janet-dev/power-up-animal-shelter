@@ -17,7 +17,7 @@ Applied knowledge and skills acquired during this course which spanned across
 
 <br><br>
 ## Business Scenario (Animal Shelter)
-Paw on Heart is an animal rescue charity that operates animal shelters and liaises with local familiesto foster animals in need. 
+Paws on Heart is an animal rescue charity that operates animal shelters and liaises with local families to foster animals in need. 
 The goal is to help every pet to get the veterinary care they need and to find their foster families.
 Project addresses these requirements using Microsoft Power Platform to streamline the operations of this organisation.
 <br><br>
@@ -102,6 +102,18 @@ Use case: to showcase shelter accomplishments<br>
 
 <br><br>
 <h2 align="left"><img src="graded.png"></h2>
+
+## Animal Shelter Solution
+
+<h2 align="left"><img src="docs/pictures/home-desktop.jpg"></h2>
+
+### Model Driven App
+* Shelter Details view
+  
+* Foster Familes view
+  
+* Animals view 
+
 
 
 
