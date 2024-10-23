@@ -105,14 +105,17 @@ Use case: to showcase shelter accomplishments<br>
 
 ## Animal Shelter Solution
 
-<h2 align="left"><img src="docs/pictures/home-desktop.jpg"></h2>
+<h2 align="left"><img src="docs/pictures/solution.png"></h2>
 
 ### Model Driven App
 * Shelter Details view
-  
+  <h2 align="left"><img src="docs/pictures/model-view-shelter.png"></h2>
+  <h2 align="left"><img src="docs/pictures/model-bi-shelter.png"></h2>
+  <h2 align="left"><img src="docs/pictures/model-new-shelter.png"></h2>
 * Foster Familes view
-  
-* Animals view 
+  <h2 align="left"><img src="docs/pictures/solution.png"></h2>
+* Animals view
+  <h2 align="left"><img src="docs/pictures/solution.png"></h2>
 
 
 
